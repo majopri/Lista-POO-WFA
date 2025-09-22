@@ -1,0 +1,10 @@
+C:\Users\aluno\source\repos\projet1\projet1\bin\Debug\projet1.exe.config
+C:\Users\aluno\source\repos\projet1\projet1\bin\Debug\projet1.exe
+C:\Users\aluno\source\repos\projet1\projet1\bin\Debug\projet1.pdb
+C:\Users\aluno\source\repos\projet1\projet1\obj\Debug\projet1.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projet1\projet1\obj\Debug\projet1.Form1.resources
+C:\Users\aluno\source\repos\projet1\projet1\obj\Debug\projet1.Properties.Resources.resources
+C:\Users\aluno\source\repos\projet1\projet1\obj\Debug\projet1.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\projet1\projet1\obj\Debug\projet1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projet1\projet1\obj\Debug\projet1.exe
+C:\Users\aluno\source\repos\projet1\projet1\obj\Debug\projet1.pdb
